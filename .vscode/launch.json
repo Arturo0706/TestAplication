@@ -7,7 +7,8 @@
         {
             "name": "test_project",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "lib/main.dart"
         },
         {
             "name": "test_project (profile mode)",

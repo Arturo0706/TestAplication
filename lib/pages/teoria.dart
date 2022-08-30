@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-
+import '../clases/partesComputadora.dart';
 
 class PageTeoria extends StatelessWidget {
-  const PageTeoria({Key? key}) : super(key: key);
+
 
   @override
   Widget build(BuildContext context) {
